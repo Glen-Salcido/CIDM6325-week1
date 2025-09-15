@@ -65,4 +65,5 @@ cycle 3: continue enforcing compliance; expand reporting dashboard
 # Working with AI
 Used ChatGPT prompt: Please create a memo for a comprehensive project pitch package for expanding telehlath operations in rural West Texas. I use the guidance as the template for this iteration.
 # Submission notes
+Supporting documents, formulas, and onboarding workflows will be documented in /docs/ withing the project repository.
 I'm at a very Beginner level for Github, I have a guide open on how to write using Markdown, so please bear with my inexperience while I commit changes and update the project.
