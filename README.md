@@ -54,13 +54,15 @@ cycle 3: continue enforcing compliance; expand reporting dashboard
 4. The Evolution of Telehealth: Where Have We Been and Where Are We Going? https://www.ncbi.nlm.nih.gov/books/NBK207141/
 
 # Risk Register
-| Risk | Impact | 
-|-----:|---------------|
-|     Limited broadband access|        High       |
-|     Provider adoption resistance|        Medium       |
-|     patient digital literacy gaps|        High       |
+
+| Risk                          | Impact | Likelihood | Mitigation                                                                           |
+| ----------------------------- | ------ | ---------- | ------------------------------------------------------------------------------------ |
+| Limited broadband access      | High   | Medium     | Partner with ISPs; provide offline/low-bandwidth options; enable telephone fallback. |
+| Provider adoption resistance  | Medium | High       | Offer training, provide technical support, emphasize reduced workload benefits.      |
+| Patient digital literacy gaps | High   | Medium     | Deploy community navigators; offer step-by-step guides and hotline support.          |
 
 
+# Working with AI
+Used ChatGPT prompt: Please create a memo for a comprehensive project pitch package for expanding telehlath operations in rural West Texas. I use the guidance as the template for this iteration.
 # Submission notes
-used ChatGPT prompt: Please create a memo for a comprehensive project pitch package for expanding telehlath operations in rural West Texas
-I'm at a very Beginner level for Github, so please bear with my inexperience while I commit changes and update the project.
+I'm at a very Beginner level for Github, I have a guide open on how to write using Markdown, so please bear with my inexperience while I commit changes and update the project.
